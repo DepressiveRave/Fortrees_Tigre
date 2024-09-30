@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: b4519742bbcaeca4285cf68c6f8e57a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleUI_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 279
+        width: 1586
+        height: 2558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6968b564acc0c4b991153d2457b9a3
+      internalID: 824130115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleUI_5
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1162
+        width: 1980
+        height: 1425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beade3a291c587409cb7d5a0dbaa643
+      internalID: 18800321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleUI_7
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 1804
+        width: 2969
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74f5771fcbef142bcb4e36a5451e10
+      internalID: 118234666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleUI_21
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 281
+        width: 3085
+        height: 1314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16388bd6e20670d49ba65eb7cb116bb4
+      internalID: -731954566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleUI_25
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 280
+        width: 1797
+        height: 781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57ecc282c7b3bf4590a07a1be41f7fb
+      internalID: 1953269674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JungleUI_0: -1463911986
+      JungleUI_1: 1936564723
+      JungleUI_10: -262458491
+      JungleUI_11: 654071203
+      JungleUI_12: -1452777761
+      JungleUI_13: -291215461
+      JungleUI_14: 29082699
+      JungleUI_15: -237451554
+      JungleUI_16: -1044289687
+      JungleUI_17: -1739755895
+      JungleUI_18: -1790840771
+      JungleUI_19: -850695867
+      JungleUI_2: 824130115
+      JungleUI_20: 490962590
+      JungleUI_21: -731954566
+      JungleUI_22: 130112965
+      JungleUI_23: 1370380666
+      JungleUI_24: -1783093260
+      JungleUI_25: 1953269674
+      JungleUI_26: 1756624484
+      JungleUI_27: 1668950545
+      JungleUI_28: 727275020
+      JungleUI_29: 1111666515
+      JungleUI_3: 2146779318
+      JungleUI_30: -303231386
+      JungleUI_31: -1927570420
+      JungleUI_32: 535319499
+      JungleUI_33: 784982844
+      JungleUI_34: 1846040875
+      JungleUI_35: 472453605
+      JungleUI_36: 974734805
+      JungleUI_37: -986362336
+      JungleUI_38: 1419213851
+      JungleUI_39: 730978939
+      JungleUI_4: 2139335073
+      JungleUI_40: -277685643
+      JungleUI_41: 1972510832
+      JungleUI_42: -959250737
+      JungleUI_5: 18800321
+      JungleUI_6: -769264864
+      JungleUI_7: 118234666
+      JungleUI_8: -209059792
+      JungleUI_9: 245261451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

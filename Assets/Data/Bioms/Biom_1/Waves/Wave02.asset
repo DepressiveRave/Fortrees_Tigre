@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09827b945f677234d9035bf4610a8a22, type: 3}
+  m_Name: Wave02
+  m_EditorClassIdentifier: 
+  objectToSpawnOnThisWave:
+  - objectID: 0
+    gameObjectToSpawn: {fileID: 5843625911353094, guid: 56c77864aa061634f9ba883236537543, type: 3}
+  - objectID: 1
+    gameObjectToSpawn: {fileID: 5682878792353816511, guid: 3d32cc52eea4dd240a06365627804c73, type: 3}
+  amountToSpawnOnThisWave: 7
